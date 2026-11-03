@@ -53,8 +53,6 @@ classificacao-letras-explicitas/
 
 ## Como executar
 
-O projeto foi desenvolvido no Google Colab.
-
 1. Clone ou baixe este repositório.
 2. Abra o notebook no Google Colab ou em um ambiente Jupyter.
 3. Execute as células em ordem.
@@ -66,6 +64,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 Os arquivos CSV de treinamento e teste são obtidos diretamente da fonte de dados indicada no notebook.
+
+O projeto foi desenvolvido no Google Colab, é possível seguir o passo a passo descrito ou abrir diretamente no Google Colab [clicando aqui](https://colab.research.google.com/drive/1MmINC7iEkAnRyEhLNATjkBIQZVyVhY4c?usp=sharing). 
 
 ## Fonte dos dados
 
