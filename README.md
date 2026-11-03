@@ -65,6 +65,12 @@ As bibliotecas necessárias são:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
+Os arquivos CSV de treinamento e teste são obtidos diretamente da fonte de dados indicada no notebook.
+
+## Fonte dos dados
+
+Os conjuntos de treinamento e teste utilizados no projeto estão disponíveis no repositório [Bert-musicas](https://github.com/AlcilenySilva/Bert-musicas).
+
 ## Objetivo acadêmico
 
 Projeto desenvolvido para aplicar conhecimentos de Ciência de Dados, análise exploratória, processamento de linguagem natural e Machine Learning, utilizando Python para resolver um problema de classificação textual.
